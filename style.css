@@ -49,7 +49,7 @@ iframe{
 }
 .img{
 	width: 30%;
-	height: 750px;
+	height: 550px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
